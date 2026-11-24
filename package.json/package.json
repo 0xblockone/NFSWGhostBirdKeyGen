@@ -1,0 +1,8 @@
+{
+  "name": "nfsw-ghostbird-keygen",
+  "version": "1.1.0",
+  "description": "Need For SWeep — GhostBird multi-core Bitcoin key generator/scanner (C VM scanner build with batch inversion)",
+  "author": "BLOCK (0xblockone)",
+  "keywords": ["bitcoin", "puzzle", "key-scanner", "ghostbird", "secp256k1"],
+  "files": ["nfsw.c", "README.md"]
+}
